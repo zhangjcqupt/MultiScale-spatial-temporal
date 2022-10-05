@@ -1,4 +1,4 @@
-# MultiScale-spatial-temporal
+# MultiScale spatio-temporal
 
 this code will be comming soon
 
