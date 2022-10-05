@@ -1,3 +1,3 @@
 # MultiScale-spatial-temporal
 
-# this code will comming soon
+this code will be comming soon
