@@ -8,4 +8,4 @@ this code will be comming soon
 
 ## overview arichtexture
 
-![image](https://github.com/zhangjcqupt/MultiScale-spatio-temporal/tree/main/Image/overview_arichtecture.png)
+![image](https://github.com/zhangjcqupt/MultiScale-spatio-temporal/blob/main/Image/overview_arichtecture.png)
