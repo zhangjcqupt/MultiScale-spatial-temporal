@@ -209,8 +209,8 @@ class TSNDataSet(data.Dataset):
 
         process_data = self.transform(images)
 
-        # return process_data, record.label
-        return process_data, record.label, indices, record.path
+        return process_data, record.label
+        # return process_data, record.label, indices, record.path
 
 
         # process_data = self.transform(images)
