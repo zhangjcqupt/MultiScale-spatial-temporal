@@ -486,8 +486,8 @@ class TSN(nn.Module):
                     logits_s2 = self.VAP2(logits_s2)
                     logits = logits_s1 + logits_s2
 
-                # return logits
-                return logits, heat_map2
+                return logits
+                # return logits, heat_map2
 
             if self.dropout > 0:
                 base_out_s2 = self.new_fc_s2(base_out_s2)
@@ -509,8 +509,8 @@ class TSN(nn.Module):
                 logits = logits_s1 + logits_s2
 
                 #return output.squeeze(1)
-        # return logits
-        return logits, heat_map
+        return logits
+        #return logits, heat_map
 
 
 
